@@ -70,8 +70,7 @@
               "RelativeToolTip": "CRUDApplication\\Dto\\AddEmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:09:10.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T17:09:10.711Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "CRUDApplication\\Data\\Implementations\\EmployeeRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAnwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:14:35.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:14:35.079Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "CRUDApplication\\Services\\Implementations\\EmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:13:43.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:13:43.956Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "CRUDApplication\\Models\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:13:20.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:13:20.06Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "CRUDApplication\\Services\\Contracts\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:13:56.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:13:56.364Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "CRUDApplication\\Dto\\ServiceResponse{T}.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:01:53.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T17:01:53.822Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "CRUDApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T17:29:25.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:29:25.651Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "CRUDApplication\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:29:58.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:29:58.748Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "CRUDApplication\\Data\\Contracts\\IIEmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:14:24.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T17:14:24.029Z"
             },
             {
               "$type": "Document",
