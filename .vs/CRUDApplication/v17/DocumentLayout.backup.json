@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\services\\contracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\services\\contracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\data\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\data\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\dto\\serviceresponse{t}.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\dto\\serviceresponse{t}.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\data\\contracts\\iiemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\data\\contracts\\iiemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|c:\\users\\prakr\\source\\repos\\crudapplication\\crudapplication\\migrations\\20241017173257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4AFF5-6FBE-4310-BE9D-682939AB9D6B}|CRUDApplication\\CRUDApplication.csproj|solutionrelative:crudapplication\\migrations\\20241017173257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Dto\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Dto\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Dto\\AddEmployeeDto.cs",
+              "RelativeToolTip": "CRUDApplication\\Dto\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:09:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Data\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "CRUDApplication\\Data\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:14:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "CRUDApplication\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:13:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDApplication\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:13:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUDApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:15:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Services\\Contracts\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Services\\Contracts\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Services\\Contracts\\IEmployeeService.cs",
+              "RelativeToolTip": "CRUDApplication\\Services\\Contracts\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:13:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceResponse{T}.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Dto\\ServiceResponse{T}.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Dto\\ServiceResponse{T}.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Dto\\ServiceResponse{T}.cs",
+              "RelativeToolTip": "CRUDApplication\\Dto\\ServiceResponse{T}.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:01:53.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\appsettings.json",
+              "RelativeToolTip": "CRUDApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T17:29:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Program.cs",
+              "RelativeToolTip": "CRUDApplication\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:29:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\Contracts\\IIEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Data\\Contracts\\IIEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\Contracts\\IIEmployeeRepository.cs",
+              "RelativeToolTip": "CRUDApplication\\Data\\Contracts\\IIEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:14:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRUDApplication\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:15:43.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241017173257_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Migrations\\20241017173257_initialcreate.cs",
+              "RelativeDocumentMoniker": "CRUDApplication\\Migrations\\20241017173257_initialcreate.cs",
+              "ToolTip": "C:\\Users\\prakr\\source\\repos\\CRUDApplication\\CRUDApplication\\Migrations\\20241017173257_initialcreate.cs",
+              "RelativeToolTip": "CRUDApplication\\Migrations\\20241017173257_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:32:57.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
