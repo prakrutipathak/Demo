@@ -28,7 +28,7 @@ namespace CRUDApplication.Controllers
         }
 
       
-        [HttpGet("GetEmployeeById")]
+        [HttpGet("GetEmployeeById/{id}")]
         public IActionResult GetEmployeeById(int id)
         {
             if (id <= 0)

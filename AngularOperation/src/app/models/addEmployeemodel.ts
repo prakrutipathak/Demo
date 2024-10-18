@@ -1,4 +1,6 @@
 export interface AddEmployee{
-    categoryName:string;
-    categoryDescription:string;
+    firstName: string,
+    lastName: string,
+    email: string,
+    phoneNumber: string
 }

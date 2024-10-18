@@ -1,4 +1,7 @@
 export interface Employee{
-    categoryName:string;
-    categoryDescription:string;
+    employeeId:number,
+    firstName: string,
+  lastName: string,
+  email: string,
+  phoneNumber: string
 }

@@ -67,3 +67,4 @@ C:\Users\prakr\source\repos\CRUDApplication\CRUDApplication\obj\Debug\net6.0\ref
 C:\Users\prakr\source\repos\CRUDApplication\CRUDApplication\obj\Debug\net6.0\CRUDApplication.pdb
 C:\Users\prakr\source\repos\CRUDApplication\CRUDApplication\obj\Debug\net6.0\CRUDApplication.genruntimeconfig.cache
 C:\Users\prakr\source\repos\CRUDApplication\CRUDApplication\obj\Debug\net6.0\ref\CRUDApplication.dll
+C:\Users\prakr\source\repos\CRUDApplication\CRUDApplication\obj\Debug\net6.0\CRUDApplication.sourcelink.json

@@ -44,7 +44,7 @@
   {
     "ContainingType": "CRUDApplication.Controllers.EmployeeController",
     "Method": "GetEmployeeById",
-    "RelativePath": "api/Employee/GetEmployeeById",
+    "RelativePath": "api/Employee/GetEmployeeById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -52,7 +52,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

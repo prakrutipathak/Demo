@@ -1,29 +1,32 @@
-<h1>Categories</h1>
+<h1>Employees</h1>
 <div *ngIf="loading">
 <img src="assets/loaderImage.gif" alt="loading..." />
 </div>
 <table class="table" *ngIf="!loading">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Phone Number</th>
       <th>Actions</th>
     </tr>
   </thead>
   <tbody>
-    <tr *ngIf="!loading && !categories">
+    <tr *ngIf="!loading && !employees">
      <td>No record found...</td>
     </tr>
-    <tr *ngFor="let category of categories">
-      <td>{{category.categoryName}}</td>
-      <td>{{category.categoryDescription}}</td>
+    <tr *ngFor="let employee of employees">
+      <td>{{employee.firstName}}</td>
+      <td>{{employee.lastName}}</td>
+      <td>{{employee.email}}</td>
+      <td>{{employee.phoneNumber}}</td>
       <td>
-        <button class="btn btn-outline-info rounded-pill btn-sm" (click)="categoryDetails(category.categoryId)" >Details</button>
-        <a  [routerLink]="['/modifyCategory',category.categoryId]">Edit</a>| 
-        <a  [routerLink]="['/modifyCategoryrf',category.categoryId]">EditRf</a>| 
-        <button class="btn btn-outline-danger rounded-pill btn-sm" (click)="confirmDelete(category.categoryId)" >Delete</button>
+        <a  [routerLink]="['/detailsEmployee',employee.employeeId]">Details</a>| 
+        <a  [routerLink]="['/modifyEmployee',employee.employeeId]">Edit</a>| 
+        <button class="btn btn-outline-danger rounded-pill btn-sm" (click)="confirmDelete(employee.employeeId)" >Delete</button>
       </td>
     </tr>
   </tbody>
 </table>
-<a [routerLink]="['/addCategory']">Add</a>|<a [routerLink]="['/addCategoryrf']">AddRF</a>
+<a [routerLink]="['/addEmployee']">Add</a>
